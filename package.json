@@ -1,0 +1,23 @@
+{
+  "name": "devinbras-server",
+  "version": "1.0.0",
+  "description": "Servidor de testes do projeto DEVInBras",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DEVin-Intelbras/devinbras-server.git"
+  },
+  "keywords": [
+    "devinbras",
+    "json-server"
+  ],
+  "author": "Michael Nascimento",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DEVin-Intelbras/devinbras-server/issues"
+  },
+  "homepage": "https://github.com/DEVin-Intelbras/devinbras-server#readme"
+}
