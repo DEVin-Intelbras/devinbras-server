@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lâmpada LED Wi-Fi Smart Intelbras EWS 409",
+      "price": 67.41,
+      "image": "prod-1.png",
+      "category": "energia",
+      "details": "/lampada-led-smart-ews-409/p"
+    },
+    {
+      "id": 2,
+      "name": "Fechadura Digital de Sobrepor Intelbras FD 2000",
+      "price": 969.9,
+      "image": "prod-2.png",
+      "category": "controle de acesso",
+      "details": "/fechadura-digital-fd-2000/p"
+    },
+    {
+      "id": 3,
+      "name": "Sensor de Abertura Intelbras ASA 3001",
+      "price": 130.9,
+      "image": "prod-3.png",
+      "category": "segurança eletrônica",
+      "details": "/sensor-abertura-asa-3001/p"
+    },
+    {
+      "id": 4,
+      "name": "Câmera Veicular Full HD Intelbras DC 3101",
+      "price": 299.9,
+      "image": "prod-4.png",
+      "category": "segurança eletrônica",
+      "details": "/camera-veicular-full-hd-dc-3101/p"
+    },
+    {
+      "id": 5,
+      "name": "WebCam USB Intelbras CAM-720p",
+      "price": 172.9,
+      "image": "prod-5.png",
+      "category": "comunicação",
+      "details": "/webcam-720/p"
+    },
+    {
+      "id": 6,
+      "name": "Kit Teclado e Mouse Intelbras CSI50 Sem Fio Preto",
+      "price": 149.9,
+      "image": "prod-6.png",
+      "category": "comunicação",
+      "details": "/kit-mouse-teclado-csi-50-sem-fio-preto/p"
+    },
+    {
+      "id": 7,
+      "name": "Sensor de Temperatura e Umidade Smart Intelbras IST 1001",
+      "price": 249.9,
+      "image": "prod-7.png",
+      "category": "segurança eletrônica",
+      "details": "/sensor-temperatura-umidade-ist-1001/p"
+    },
+    {
+      "id": 8,
+      "name": "Fone de Ouvido Sem Fio Intelbras Focus One",
+      "price": 183.51,
+      "image": "prod-8.png",
+      "category": "comunicação",
+      "details": "/headset-bluetooth-focus-one/p"
+    },
+    {
+      "id": 9,
+      "name": "Luminária Solar Integrada Intelbras LSI 4800",
+      "price": 1815.9,
+      "image": "prod-9.png",
+      "category": "energia solar",
+      "details": "/luminaria-solar-lsi-4800/p"
+    },
+    {
+      "id": 10,
+      "name": "Nobreak Interativo Monovolt Intelbras XNB 1800Va 120V",
+      "price": 1434.9,
+      "image": "prod-10.png",
+      "category": "energia",
+      "details": "/nobreak-xnb-1800-120v/p"
+    },
+    {
+      "id": 11,
+      "name": "Kit Roteador Mesh Twibi Giga+ Intelbras",
+      "price": 745.9,
+      "image": "prod-11.png",
+      "category": "redes",
+      "details": "/kit-mesh-twibi-giga/p"
+    },
+    {
+      "id": 12,
+      "name": "Roteador Wireless W5-1200G",
+      "price": 307.9,
+      "image": "prod-12.png",
+      "category": "redes",
+      "details": "/roteador-wireless-w5-1200g/p"
+    },
+    {
+      "id": 13,
+      "name": "Adaptador USB Wireless Intelbras IWA 3001",
+      "price": 85.9,
+      "image": "prod-13.png",
+      "category": "redes",
+      "details": "/adaptador-iwa-3001/p"
+    }
+  ]
+}

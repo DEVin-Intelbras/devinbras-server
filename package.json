@@ -4,6 +4,7 @@
   "description": "Servidor de testes do projeto DEVInBras",
   "main": "app.js",
   "scripts": {
+    "start": "json-server --watch ./data/db.json --port 8081 --read-only --delay 2200  ",
     "test": "jest"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/DEVin-Intelbras/devinbras-server/issues"
   },
-  "homepage": "https://github.com/DEVin-Intelbras/devinbras-server#readme"
+  "homepage": "https://github.com/DEVin-Intelbras/devinbras-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
