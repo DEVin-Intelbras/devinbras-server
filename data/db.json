@@ -6,7 +6,46 @@
       "price": 67.41,
       "image": "prod-1.png",
       "category": "energia",
-      "details": "/lampada-led-smart-ews-409/p"
+      "details": "/lampada-led-smart-ews-409/p",
+      "description": "A Lâmpada LED Wi-Fi Smart - EWS 409 permite o controle da sua iluminação por aplicativo. O EWS 409 permite desligar e ligar, alterar a cor, agendar ações e criar automações na palma da sua mão, através do aplicativo Izy Smart. Para usá-la basta encaixar em um bocal E27 e configurar através do aplicativo. O produto alia características de praticidade, economia de energia e segurança.",
+      "technicalSpecifications": [
+        {
+          "title": "Garantia",
+          "description": "1 ano"
+        },
+        {
+          "title": "Freqüência de operação",
+          "description": "50/60Hz"
+        },
+        {
+          "title": "Modelo do produto",
+          "description": "EWS 409"
+        },
+        {
+          "title": "Cor",
+          "description": "Branco"
+        },
+        {
+          "title": "Quantidade pacote",
+          "description": "01"
+        },
+        {
+          "title": "Comprimento do produto",
+          "description": "6 cm"
+        },
+        {
+          "title": "Largura do produto",
+          "description": "6 cm"
+        },
+        {
+          "title": "Altura do produto",
+          "description": "12 cm"
+        },
+        {
+          "title": "Peso do produto",
+          "description": "0,076 kg"
+        }
+      ]
     },
     {
       "id": 2,
@@ -14,7 +53,58 @@
       "price": 969.9,
       "image": "prod-2.png",
       "category": "controle de acesso",
-      "details": "/fechadura-digital-fd-2000/p"
+      "details": "/fechadura-digital-fd-2000/p",
+      "description": "A fechadura digital de sobrepor FD 2000 faz parte da nova linha de fechaduras digitais Intelbras, que combina segurança e praticidade. Possui duas formas de acesso: senha e tag de proximidade. Na FD 2000 é possivel cadastrar até 9 senhas (sendo 1 de administrador, 4 de uso diário e 4 de visitantes de uso temporário) e até 100 tags de proximidade. Conta com funções como travamento automático, função não pertube, aviso de bateria fraca, sensor de travamento automático e alarme antiarrombamento. Sua alimentação é feita por 4 pilhas alcalinas tipo AA, com duração média de 1 ano. A FD 2000 tem 02 anos de garantia de fábrica.",
+      "technicalSpecifications": [
+        {
+          "title": "Material da Porta",
+          "description": "Metal"
+        },
+        {
+          "title": "Garantia",
+          "description": "2 ano"
+        },
+        {
+          "title": "Freqüência de operação",
+          "description": "13,56 MHz"
+        },
+        {
+          "title": "Modelo do produto",
+          "description": "FD 2000"
+        },
+        {
+          "title": "Cor",
+          "description": "Preto"
+        },
+        {
+          "title": "Quantidade pacote",
+          "description": "01"
+        },
+        {
+          "title": "Comprimento do produto",
+          "description": "Módulo interno: 4,3 cm. Módulo externo: 17,4 cm"
+        },
+        {
+          "title": "Largura do produto",
+          "description": "Módulo interno: 7 cm. Módulo externo: 7cm"
+        },
+        {
+          "title": "Altura do produto",
+          "description": "Módulo interno: 16,5 cm. Módulo externo: 17,4 cm"
+        },
+        {
+          "title": "Peso do produto",
+          "description": "Módulo interno: 0,521 kg. Módulo externo: 0,325 kg"
+        },
+        {
+          "title": "Local de uso",
+          "description": "Uso interno"
+        },
+        {
+          "title": "Modo de Acesso",
+          "description": "Chaveiro de aproximação, Senha"
+        }
+      ]
     },
     {
       "id": 3,
@@ -22,7 +112,42 @@
       "price": 130.9,
       "image": "prod-3.png",
       "category": "segurança eletrônica",
-      "details": "/sensor-abertura-asa-3001/p"
+      "details": "/sensor-abertura-asa-3001/p",
+      "description": "Seja notificado sempre que você esquecer uma porta ou janela aberta ou quando houver uma intrusão no local. * Necessita de um hub da linha Mibo Home.",
+      "technicalSpecifications": [
+        {
+          "title": "Garantia",
+          "description": "1 ano"
+        },
+        {
+          "title": "Duração da bateria/pilha",
+          "description": "2 anos"
+        },
+        {
+          "title": "Modelo do produto",
+          "description": "ASA 3001"
+        },
+        {
+          "title": "Cor",
+          "description": "Branco"
+        },
+        {
+          "title": "Comprimento do produto",
+          "description": "1,2 cm"
+        },
+        {
+          "title": "Largura do produto",
+          "description": "3,1 cm"
+        },
+        {
+          "title": "Altura do produto",
+          "description": "4,2 cm"
+        },
+        {
+          "title": "Peso do produto",
+          "description": "0,085 KG"
+        }
+      ]
     },
     {
       "id": 4,
@@ -30,7 +155,42 @@
       "price": 299.9,
       "image": "prod-4.png",
       "category": "segurança eletrônica",
-      "details": "/camera-veicular-full-hd-dc-3101/p"
+      "details": "/camera-veicular-full-hd-dc-3101/p",
+      "description": "Leve a segurança junto com você! A Câmera Veicular Full HD DC 3101 foi desenvolvida para que você possa monitorar e registrar todos os detalhes que ocorrem em suas viagens. Tenha uma visão mais nítida e ampla de toda a estrada com imagens em alta definição (Full HD) e campo de visão de 140°. Além disso, as imagens são armazenadas em Cartão de Memória MicroSD de até 64GB de forma otimizada, ou seja, sobrescreve as gravações mais antigas, dispensando a troca do Cartão Micro-SD.",
+      "technicalSpecifications": [
+        {
+          "title": "Garantia",
+          "description": "1 ano"
+        },
+        {
+          "title": "Freqüência de operação",
+          "description": "DC"
+        },
+        {
+          "title": "Modelo do produto",
+          "description": "DC 3101"
+        },
+        {
+          "title": "Cor",
+          "description": "Preto"
+        },
+        {
+          "title": "Comprimento do produto",
+          "description": "3,92 cm"
+        },
+        {
+          "title": "Largura do produto",
+          "description": "5,08 cm"
+        },
+        {
+          "title": "Altura do produto",
+          "description": "6,67 cm"
+        },
+        {
+          "title": "Peso do produto",
+          "description": "0,65 KG"
+        }
+      ]
     },
     {
       "id": 5,
@@ -38,7 +198,42 @@
       "price": 172.9,
       "image": "prod-5.png",
       "category": "comunicação",
-      "details": "/webcam-720/p"
+      "details": "/webcam-720/p",
+      "description": "Você sabia que assim como televisores e câmeras, as webcams também evoluem em qualidade de som e imagem? Mesmo que muitos notebooks contenham esse dispositivo integrado, não se comparam à qualidade de um dispositivo dedicado. A CAM-720p é um equipamento portátil de áudio e vídeo conferencia desenvolvido para trazer praticidade e tornar suas reuniões mais eficientes. Este é um produto P&P Plug&Play que integra uma câmera de resolução HD e dois microfones com tecnologia omnidirecional, para ser conectado diretamente à porta USB 2.0 de computadores do tipo notebook ou desktop. Foi projetada para pequenos grupos de reuniões ou uso individual sendo compatível com as mais populares plataformas de vídeo chamadas, como, por exemplo: ® Skype, ®Skype for Business, ®Zoom, ®Cisco WebEx ®Microsoft Teams, ®Google Meet, ®Google Hangouts, ®WeChat e outros.",
+      "technicalSpecifications": [
+        {
+          "title": "Garantia",
+          "description": "2 ano"
+        },
+        {
+          "title": "Modelo do produto",
+          "description": "CAM-720p"
+        },
+        {
+          "title": "Cor",
+          "description": "Preto"
+        },
+        {
+          "title": "Quantidade pacote",
+          "description": "01"
+        },
+        {
+          "title": "Comprimento do produto",
+          "description": "5,6 cm"
+        },
+        {
+          "title": "Largura do produto",
+          "description": "9,7 cm"
+        },
+        {
+          "title": "Altura do produto",
+          "description": "5,1 cm"
+        },
+        {
+          "title": "Peso do produto",
+          "description": "0,147 KG"
+        }
+      ]
     },
     {
       "id": 6,
@@ -46,7 +241,46 @@
       "price": 149.9,
       "image": "prod-6.png",
       "category": "comunicação",
-      "details": "/kit-mouse-teclado-csi-50-sem-fio-preto/p"
+      "details": "/kit-mouse-teclado-csi-50-sem-fio-preto/p",
+      "description": "O CSI 50 vai trazer novas experiências no seu dia a dia com seu combo completo, com click silencioso, pés retráteis, indicação de bateria, compatibilidade com sistemas operacionais, modo Standby e conexão Dongle USB Plug and play é o produto ideal para auxiliar a ter mais foco e concentração na execução das suas tarefas.",
+      "technicalSpecifications": [
+        {
+          "title": "Garantia",
+          "description": "2 ano"
+        },
+        {
+          "title": "Freqüência de operação",
+          "description": "2.4GHz"
+        },
+        {
+          "title": "Modelo do produto",
+          "description": "Teclado sem fio TSI 50. Mouse sem fio MSI 50"
+        },
+        {
+          "title": "Cor",
+          "description": "Preto"
+        },
+        {
+          "title": "Quantidade pacote",
+          "description": "01"
+        },
+        {
+          "title": "Comprimento do produto",
+          "description": "Mouse: 3,8 cm. Teclado: 1,4 cm"
+        },
+        {
+          "title": "Largura do produto",
+          "description": "Mouse: 6,2 cm. Teclado: 44,3 cm"
+        },
+        {
+          "title": "Altura do produto",
+          "description": "Mouse: 10,7 cm. Teclado: 13,3 cm"
+        },
+        {
+          "title": "Peso do produto",
+          "description": "Mouse: 0,083 kg. Teclado: 0,480 kg"
+        }
+      ]
     },
     {
       "id": 7,
@@ -54,7 +288,46 @@
       "price": 249.9,
       "image": "prod-7.png",
       "category": "segurança eletrônica",
-      "details": "/sensor-temperatura-umidade-ist-1001/p"
+      "details": "/sensor-temperatura-umidade-ist-1001/p",
+      "description": "Adicione mais inteligência e conforto ao seu sistema de automação Izy. O sensor de temperatura e umidade IST 1001 é totalmente sem fio e possui a tecnologia ZigBee, garantindo uma maior vida útil da sua bateria e velocidade de funcionamento. Este sensor funciona exclusivamente com a linha de automação Izy.",
+      "technicalSpecifications": [
+        {
+          "title": "Garantia",
+          "description": "1 ano"
+        },
+        {
+          "title": "Freqüência de operação",
+          "description": "2.4GHz"
+        },
+        {
+          "title": "Modelo do produto",
+          "description": "IST 1001"
+        },
+        {
+          "title": "Cor",
+          "description": "Branco"
+        },
+        {
+          "title": "Quantidade pacote",
+          "description": "01"
+        },
+        {
+          "title": "Comprimento do produto",
+          "description": "2,3 cm"
+        },
+        {
+          "title": "Largura do produto",
+          "description": "6,12 cm"
+        },
+        {
+          "title": "Altura do produto",
+          "description": "6,12 cm"
+        },
+        {
+          "title": "Peso do produto",
+          "description": "0,072 kg"
+        }
+      ]
     },
     {
       "id": 8,
@@ -62,7 +335,42 @@
       "price": 183.51,
       "image": "prod-8.png",
       "category": "comunicação",
-      "details": "/headset-bluetooth-focus-one/p"
+      "details": "/headset-bluetooth-focus-one/p",
+      "description": "O headset Focus One possui alta qualidade de áudio e tecnologia bluetooth 5.0 que permite conectá-lo a outros dispositivos. Esse produto é compatível com as principais plataformas e aplicativos de comunicação e é ideal para ambientes de concentração, músicas e vídeos. Conta também com interação com assistente pessoal que facilita as ações do usuário. Com seu cancelamento de ruído passivo permite que você fique focado, evitando ruídos e distrações externas, proporcionando maior concentração, conforto, liberdade e praticidade para o usuário.",
+      "technicalSpecifications": [
+        {
+          "title": "Garantia",
+          "description": "1 ano"
+        },
+        {
+          "title": "Modelo do produto",
+          "description": "Focus One"
+        },
+        {
+          "title": "Cor",
+          "description": "Preto"
+        },
+        {
+          "title": "Quantidade pacote",
+          "description": "01"
+        },
+        {
+          "title": "Comprimento do produto",
+          "description": "5,5 cm"
+        },
+        {
+          "title": "Largura do produto",
+          "description": "16,74 cm"
+        },
+        {
+          "title": "Altura do produto",
+          "description": "20,20 cm"
+        },
+        {
+          "title": "Peso do produto",
+          "description": "0,100 kg"
+        }
+      ]
     },
     {
       "id": 9,
@@ -70,7 +378,42 @@
       "price": 1815.9,
       "image": "prod-9.png",
       "category": "energia solar",
-      "details": "/luminaria-solar-lsi-4800/p"
+      "details": "/luminaria-solar-lsi-4800/p",
+      "description": "A Luminária Solar Integrada Intelbras LSI 4800 é o produto ideal para quem procura por uma luminária versátil, com instalação simples, prática e que não precisa de estrutura de tubulação, fios e conexão com a rede elétrica para funcionar. A LSI 4800 possui toda a solução em um só produto, placa solar, bateria e leds. Podendo ser instalada em parede ou em postes, sendo uma ótima opção para iluminar iluminar jardins, parques, estacionamentos e outros tipos de áreas abertas. A LSI 4800 conta com controle remoto para personalização dos modos de funcionamento.",
+      "technicalSpecifications": [
+        {
+          "title": "Garantia",
+          "description": "1 ano"
+        },
+        {
+          "title": "Modelo do produto",
+          "description": "LSI 4800"
+        },
+        {
+          "title": "Cor",
+          "description": "Preto"
+        },
+        {
+          "title": "Quantidade pacote",
+          "description": "01"
+        },
+        {
+          "title": "Comprimento do produto",
+          "description": "49,25 cm"
+        },
+        {
+          "title": "Largura do produto",
+          "description": "23,19 cm"
+        },
+        {
+          "title": "Altura do produto",
+          "description": "5,8 cm"
+        },
+        {
+          "title": "Peso do produto",
+          "description": "2 kg"
+        }
+      ]
     },
     {
       "id": 10,
@@ -78,7 +421,50 @@
       "price": 1434.9,
       "image": "prod-10.png",
       "category": "energia",
-      "details": "/nobreak-xnb-1800-120v/p"
+      "details": "/nobreak-xnb-1800-120v/p",
+      "description": "Os Nobreaks Interativos Intelbras oferecem proteção e autonomia para equipamentos eletrônicos. De fácil instalação, eles são ideais para utilização junto a modens, roteadores, TVs, Home Theaters, Video Games, equipamentos de Pdv e câmeras de segurança. Além de proteger os equipamentos de oscilações da rede elétrica, eles possuem baterias extras para prolongar a utilização dos itens conectados, em caso de queda no fornecimento de energia, garantindo mais tranquilidade e segurança para o usuário. Antes de utilizar os Nobreaks Intelbras, verifique se o modelo é adequado à sua aplicação.",
+      "technicalSpecifications": [
+        {
+          "title": "Tensão de Entrada",
+          "description": "110V"
+        },
+        {
+          "title": "Tensão de Saída",
+          "description": "110V"
+        },
+        {
+          "title": "Garantia",
+          "description": "1 ano"
+        },
+        {
+          "title": "Modelo do produto",
+          "description": "XNB 1800Va"
+        },
+        {
+          "title": "Cor",
+          "description": "Preto"
+        },
+        {
+          "title": "Quantidade pacote",
+          "description": "01"
+        },
+        {
+          "title": "Comprimento do produto",
+          "description": "35,3 cm"
+        },
+        {
+          "title": "Largura do produto",
+          "description": "15,8 cm"
+        },
+        {
+          "title": "Altura do produto",
+          "description": "19,8 cm"
+        },
+        {
+          "title": "Peso do produto",
+          "description": "11,571 kg"
+        }
+      ]
     },
     {
       "id": 11,
@@ -86,7 +472,46 @@
       "price": 745.9,
       "image": "prod-11.png",
       "category": "redes",
-      "details": "/kit-mesh-twibi-giga/p"
+      "details": "/kit-mesh-twibi-giga/p",
+      "description": "O Sistema Wi-Fi 5 Mesh Twibi Giga+ foi feito para você que deseja ter sinal Wi-Fi por onde precisar, garantindo que seus dispositivos estejam sempre conectados! O Twibi Giga+ é ideal para planosde internet acima de 100* mega, conecta até 60 dispositivos e, graças a tecnologia mesh, pode ter sua área de cobertura expandida com a adição de mais twibis a rede. O kit com duas unidadescobre áreas de até 360m²*.*Valores médios recomendados. Dependendo do perfil de uso e de fatores ambientais como local de instalação e interferências próximas, pode haver alteração para mais ou para menos.",
+      "technicalSpecifications": [
+        {
+          "title": "Garantia",
+          "description": "5 anos"
+        },
+        {
+          "title": "Freqüência de operação",
+          "description": "2.4 GHz até 300 Mbps e 5 GHz até 867 Mbps"
+        },
+        {
+          "title": "Modelo do produto",
+          "description": "Kit Twibi Giga+"
+        },
+        {
+          "title": "Cor",
+          "description": "Branco"
+        },
+        {
+          "title": "Quantidade pacote",
+          "description": "02"
+        },
+        {
+          "title": "Comprimento do produto",
+          "description": "11,7 cm"
+        },
+        {
+          "title": "Largura do produto",
+          "description": "11,7 cm"
+        },
+        {
+          "title": "Altura do produto",
+          "description": "11 cm"
+        },
+        {
+          "title": "Peso do produto",
+          "description": "0,286 kg"
+        }
+      ]
     },
     {
       "id": 12,
@@ -94,7 +519,46 @@
       "price": 307.9,
       "image": "prod-12.png",
       "category": "redes",
-      "details": "/roteador-wireless-w5-1200g/p"
+      "details": "/roteador-wireless-w5-1200g/p",
+      "description": "O roteador Wi-Force W5-1200G foi desenvolvido para quem deseja conexão à internet com mais qualidade e estabilidade. Ele é ideal para planos de internet acima de 100 Mega*, para conectar até 40* dispositivos simultaneamente e cobrir com Wi-Fi até 120m²*. O W5-1200G conta com 4 portas Gigabit Ethernet (10/100/1000Mbps) e possui a tecnologia Wi-Fi 5 com 867Mbps em 5 GHz (802.11ac) e 300Mbps em 2,4 GHz (802.11n). Além disso, é compatível com o aplicativo móvel Meu Wi-Fi Intelbras para configuração e gerenciamento, permitindo de forma fácil e prática realizar ações como configuração do roteador e da rede Wi-Fi, ver quem está conectado à rede e realizar bloqueios, verificar o consumo de velocidade de internet em tempo real, dentre várias outras opções.",
+      "technicalSpecifications": [
+        {
+          "title": "Garantia",
+          "description": "5 anos"
+        },
+        {
+          "title": "Freqüência de operação",
+          "description": "2,4 GHz e 5 GHz"
+        },
+        {
+          "title": "Modelo do produto",
+          "description": "W5-1200G"
+        },
+        {
+          "title": "Cor",
+          "description": "Preto"
+        },
+        {
+          "title": "Quantidade pacote",
+          "description": "01"
+        },
+        {
+          "title": "Comprimento do produto",
+          "description": "16,2 cm"
+        },
+        {
+          "title": "Largura do produto",
+          "description": "27,8 cm"
+        },
+        {
+          "title": "Altura do produto",
+          "description": "22 cm"
+        },
+        {
+          "title": "Peso do produto",
+          "description": "0,459 kg"
+        }
+      ]
     },
     {
       "id": 13,
@@ -102,7 +566,42 @@
       "price": 85.9,
       "image": "prod-13.png",
       "category": "redes",
-      "details": "/adaptador-iwa-3001/p"
+      "details": "/adaptador-iwa-3001/p",
+      "description": "O IWA 3001 é um adaptador USB de alto ganho que permite conectar via Wi-Fi notebooks e desktops sem placas wireless ou com placas de velocidades inferiores a 300 Mbps. O modelo é ideal para quem busca uma solução fácil de instalar e com mais alcance de sinal.",
+      "technicalSpecifications": [
+        {
+          "title": "Garantia",
+          "description": "1 ano"
+        },
+        {
+          "title": "Modelo do produto",
+          "description": "IWA 3001"
+        },
+        {
+          "title": "Cor",
+          "description": "Preto"
+        },
+        {
+          "title": "Quantidade pacote",
+          "description": "01"
+        },
+        {
+          "title": "Comprimento do produto",
+          "description": "5,8 cm"
+        },
+        {
+          "title": "Largura do produto",
+          "description": "1,9 cm"
+        },
+        {
+          "title": "Altura do produto",
+          "description": "10,9 cm"
+        },
+        {
+          "title": "Peso do produto",
+          "description": "0,006 kg"
+        }
+      ]
     }
   ]
 }
