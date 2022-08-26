@@ -45,7 +45,8 @@
           "title": "Peso do produto",
           "description": "0,076 kg"
         }
-      ]
+      ],
+      "imageDetails": ["prod-1.png", "prod-1-2.png", "prod-1-3.png"]
     },
     {
       "id": 2,
@@ -104,7 +105,8 @@
           "title": "Modo de Acesso",
           "description": "Chaveiro de aproximação, Senha"
         }
-      ]
+      ],
+      "imageDetails": ["prod-2.png", "prod-2-2.png", "prod-2-3.png"]
     },
     {
       "id": 3,
@@ -147,7 +149,8 @@
           "title": "Peso do produto",
           "description": "0,085 KG"
         }
-      ]
+      ],
+      "imageDetails": ["prod-3.png"]
     },
     {
       "id": 4,
@@ -190,7 +193,8 @@
           "title": "Peso do produto",
           "description": "0,65 KG"
         }
-      ]
+      ],
+      "imageDetails": ["prod-4.png", "prod-4-2.png", "prod-4-3.png"]
     },
     {
       "id": 5,
@@ -233,7 +237,8 @@
           "title": "Peso do produto",
           "description": "0,147 KG"
         }
-      ]
+      ],
+      "imageDetails": ["prod-5.png", "prod-5-2.png", "prod-5-3.png"]
     },
     {
       "id": 6,
@@ -280,7 +285,8 @@
           "title": "Peso do produto",
           "description": "Mouse: 0,083 kg. Teclado: 0,480 kg"
         }
-      ]
+      ],
+      "imageDetails": ["prod-6.png", "prod-6-2.png", "prod-6-3.png"]
     },
     {
       "id": 7,
@@ -327,7 +333,8 @@
           "title": "Peso do produto",
           "description": "0,072 kg"
         }
-      ]
+      ],
+      "imageDetails": ["prod-7.png", "prod-7-2.png", "prod-7-3.png"]
     },
     {
       "id": 8,
@@ -370,7 +377,8 @@
           "title": "Peso do produto",
           "description": "0,100 kg"
         }
-      ]
+      ],
+      "imageDetails": ["prod-8.png", "prod-8-2.png", "prod-8-3.png"]
     },
     {
       "id": 9,
@@ -413,7 +421,8 @@
           "title": "Peso do produto",
           "description": "2 kg"
         }
-      ]
+      ],
+      "imageDetails": ["prod-9.png", "prod-9-2.png", "prod-9-3.png"]
     },
     {
       "id": 10,
@@ -464,7 +473,8 @@
           "title": "Peso do produto",
           "description": "11,571 kg"
         }
-      ]
+      ],
+      "imageDetails": ["prod-10.png", "prod-10-2.png", "prod-10-3.png"]
     },
     {
       "id": 11,
@@ -511,7 +521,8 @@
           "title": "Peso do produto",
           "description": "0,286 kg"
         }
-      ]
+      ],
+      "imageDetails": ["prod-11.png", "prod-11-2.png", "prod-11-3.png"]
     },
     {
       "id": 12,
@@ -558,7 +569,8 @@
           "title": "Peso do produto",
           "description": "0,459 kg"
         }
-      ]
+      ],
+      "imageDetails": ["prod-12.png", "prod-12-2.png", "prod-12-3.png"]
     },
     {
       "id": 13,
@@ -601,7 +613,8 @@
           "title": "Peso do produto",
           "description": "0,006 kg"
         }
-      ]
+      ],
+      "imageDetails": ["prod-13.png", "prod-13-2.png", "prod-13-3.png"]
     }
   ]
 }
