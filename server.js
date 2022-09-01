@@ -64,7 +64,7 @@ server.use(/^(?!\/auth).*$/, (req, res, next) => {
     return;
   }
 
-  const isValidReader =
+  const isInvalidHeader =
     req.headers.authorization === undefined || req.headers.authorization.split(' ')[0] !== 'Bearer';
 
   if (isValidReader) {
