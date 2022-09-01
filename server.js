@@ -67,7 +67,7 @@ server.use(/^(?!\/auth).*$/, (req, res, next) => {
   const isInvalidHeader =
     req.headers.authorization === undefined || req.headers.authorization.split(' ')[0] !== 'Bearer';
 
-  if (isValidReader) {
+  if (isInvalidHeader) {
     const status = 401;
     const message = 'Cabeçalho de autorização incorreto';
     res.status(status).json({ status, message });
