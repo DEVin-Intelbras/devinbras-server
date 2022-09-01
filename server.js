@@ -73,6 +73,7 @@ server.use(/^(?!\/auth).*$/, (req, res, next) => {
     res.status(status).json({ status, message });
     return;
   }
+  
   try {
     verifyToken(req.headers.authorization.split(' ')[1]);
     next();
