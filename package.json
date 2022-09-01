@@ -2,9 +2,10 @@
   "name": "devinbras-server",
   "version": "1.0.0",
   "description": "Servidor de testes do projeto DEVInBras",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "start": "json-server --watch ./data/db.json --port 8081 --read-only --delay 2200  ",
+    "start:auth": "nodemon ./server.js localhost 8081",
     "test": "jest"
   },
   "repository": {
@@ -22,6 +23,10 @@
   },
   "homepage": "https://github.com/DEVin-Intelbras/devinbras-server#readme",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.0",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }

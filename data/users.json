@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Thais",
+      "email": "thais.bertoldo@edu.sc.senai.br",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Mika",
+      "email": "michael.nascimento@edu.sc.senai.br",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "name": "a",
+      "email": "a@a.com",
+      "password": "123"
+    }
+  ]
+}
