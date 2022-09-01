@@ -57,8 +57,8 @@ server.post('/auth/login', (req, res) => {
 });
 
 server.use(/^(?!\/auth).*$/, (req, res, next) => {
-  const isPrivateRoute = req.method === 'POST' && req.baseUrl === '/products';
-  
+  const isPrivateRoute = req.method === 'POST' && req.baseUrl.includes('/products');
+
   if (!isPrivateRoute) {
     next();
     return;
